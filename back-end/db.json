@@ -10,6 +10,39 @@
         "bio": ""
       },
       "isVerified": false
+    },
+    {
+      "id": "24a1c70c-bcf4-410a-9188-165a4eb22b72",
+      "email": "gche@gmail.com",
+      "passwordHash": "$2b$10$9gGujBn8aIS5ZCDEg.dvr.jZVgCBTnz69mAraNvaZM6ID/CeClFCa",
+      "info": {
+        "hairColor": "",
+        "favFood": "",
+        "bio": ""
+      },
+      "isVerified": false
+    },
+    {
+      "id": "55c96c60-020d-4ce8-adf0-68fd52c7723c",
+      "email": "gche1@gmail.com",
+      "passwordHash": "$2b$10$eGvkXQQYgN4iXhh3IulSqu7I0Mfy2WziYyApcrMP4PuQl3z.K7cQm",
+      "info": {
+        "hairColor": "",
+        "favFood": "",
+        "bio": ""
+      },
+      "isVerified": false
+    },
+    {
+      "id": "59900da6-7172-43f0-9724-4afd43a978c7",
+      "email": "gche11@gmail.com",
+      "passwordHash": "$2b$10$0iPNRkk0LqeGjMZ8yj83dezCYx/fqlyR1BahX5ZUkO5J5ba2mC2Vu",
+      "info": {
+        "hairColor": "",
+        "favFood": "",
+        "bio": ""
+      },
+      "isVerified": false
     }
   ]
 }
