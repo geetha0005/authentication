@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "efb8fe9e-0c6c-4f9b-b407-25eb806ff1b1",
+      "email": "gch@gmail.com",
+      "passwordHash": "$2b$10$WYDgxn1VFmbtKgPyO7FiJ.h2OGxTNAEAIOBjUZePIEQxzkf8kzpPi",
+      "info": {
+        "hairColor": "",
+        "favFood": "",
+        "bio": ""
+      },
+      "isVerified": false
+    }
+  ]
+}

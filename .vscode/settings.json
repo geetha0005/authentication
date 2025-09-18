@@ -13,7 +13,7 @@
   "editor.tabSize": 2,
   "editor.useTabStops": true,
   "emmet.triggerExpansionOnTab": true,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "terminal.integrated.fontSize": 18,
   "workbench.colorTheme": "LinkedIn Learning Dark",
   "workbench.fontAliasing": "antialiased",
